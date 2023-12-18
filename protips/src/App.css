@@ -1,0 +1,19 @@
+nav{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(255, 68, 0, 0.655);
+  color: white;
+  height: 35px;
+}
+ul{
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+}
+*{
+  text-decoration: none;
+  margin: 0;
+}
+li{
+  margin-left: 15px;
+}
